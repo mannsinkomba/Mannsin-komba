@@ -11,12 +11,12 @@
     </header>
     <section>
         <h2>À propos de moi</h2>
-        <p>Je suis [suis Mannsin-komba Cyprien SAWADOGO], étudiant en Ingéniérie Statistiques et Numérique, expert en conception et digitalisation d'outils statistiques, analyse et traitement des données. Je suis passionné par la statistique et l'innovation technologique. Mon ambition est de dévenir Ingénieur Machine Learning et Développeur IA</p>
+        <p>Je suis Mannsin-komba Cyprien SAWADOGO, étudiant en Ingéniérie Statistiques et Numérique, expert en conception et digitalisation d'outils statistiques, analyse et traitement des données. Je suis passionné par la statistique et l'innovation technologique. Mon ambition est de dévenir Ingénieur Machine Learning et Développeur IA</p>
     </section>
     <section>
         <h2>Projets</h2>
         <ul>
-            <li><a href="lien_vers_projet1">Projet 1</a></li>
+            <!-- <li><a href="lien_vers_projet1">Projet 1</a></li>
             <li><a href="lien_vers_projet2">Projet 2</a></li>
             <!-- Ajoutez d'autres projets ici -->
         </ul>
