@@ -43,7 +43,11 @@
     </section>
     <section>
         <h2>Contact</h2>
-        <p>Vous pouvez me contacter à : scyprien74@gmail.com</p>
+        <p>Vous pouvez me contacter à : 
+            <ul> 
+                <li><a href="lien_vers_mail">scyprien74@gmail.com</a></li>
+            </ul>
+            </p>
     </section>
 </body>
 </html>
